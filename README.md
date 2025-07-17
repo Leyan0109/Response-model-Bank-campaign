@@ -43,7 +43,7 @@ This project analyzes customer responses to a bank's term deposit marketing camp
 
 ## 📁 Repository Structure
 bank-response-prediction/
-1. data/ # Cleaned dataset
+1. data/ # Raw dataset
 2. notebooks/ # Model development and EDA
 3. results/ # Evaluation plots and metrics
 4. README.md # Project documentation
